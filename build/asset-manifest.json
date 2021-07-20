@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/suntechnoreactsite/static/css/main.e76390a9.chunk.css",
+    "main.js": "/suntechnoreactsite/static/js/main.28d0d294.chunk.js",
+    "main.js.map": "/suntechnoreactsite/static/js/main.28d0d294.chunk.js.map",
+    "runtime-main.js": "/suntechnoreactsite/static/js/runtime-main.a44e0b80.js",
+    "runtime-main.js.map": "/suntechnoreactsite/static/js/runtime-main.a44e0b80.js.map",
+    "static/js/2.354d035a.chunk.js": "/suntechnoreactsite/static/js/2.354d035a.chunk.js",
+    "static/js/2.354d035a.chunk.js.map": "/suntechnoreactsite/static/js/2.354d035a.chunk.js.map",
+    "static/js/3.2daa4af5.chunk.js": "/suntechnoreactsite/static/js/3.2daa4af5.chunk.js",
+    "static/js/3.2daa4af5.chunk.js.map": "/suntechnoreactsite/static/js/3.2daa4af5.chunk.js.map",
+    "index.html": "/suntechnoreactsite/index.html",
+    "static/css/main.e76390a9.chunk.css.map": "/suntechnoreactsite/static/css/main.e76390a9.chunk.css.map",
+    "static/js/2.354d035a.chunk.js.LICENSE.txt": "/suntechnoreactsite/static/js/2.354d035a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a44e0b80.js",
+    "static/js/2.354d035a.chunk.js",
+    "static/css/main.e76390a9.chunk.css",
+    "static/js/main.28d0d294.chunk.js"
+  ]
+}
